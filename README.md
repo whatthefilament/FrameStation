@@ -10,3 +10,8 @@ The split STEP file is designed to cut the case to fit on standard 220mm 3D Prin
 Once the print has been tested i will upload STL files to print. 
 
 The extra port on the back of the case is designed to allow you to add LED lights inside the case and power with standard 12v power
+
+![Screenshot1](https://github.com/whatthefilament/FrameStation/blob/main/Images/screenshot1.png)
+![Screenshot2](https://github.com/whatthefilament/FrameStation/blob/main/Images/screenshot2.png)
+![Screenshot3](https://github.com/whatthefilament/FrameStation/blob/main/Images/screenshot3.png)
+![Screenshot4](https://github.com/whatthefilament/FrameStation/blob/main/Images/screenshot4.png)
