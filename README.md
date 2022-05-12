@@ -8,3 +8,5 @@ All joints are designed to be used with M3 heat inserts. The only glue used in t
 The split STEP file is designed to cut the case to fit on standard 220mm 3D Printers 
 
 Once the print has been tested i will upload STL files to print. 
+
+The extra port on the back of the case is designed to allow you to add LED lights inside the case and power with standard 12v power
