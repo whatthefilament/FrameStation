@@ -7,7 +7,7 @@ All joints are designed to be used with M3 heat inserts. The only glue used in t
 
 The split STEP file is designed to cut the case to fit on standard 220mm 3D Printers 
 
-Once the print has been tested i will upload STL files to print. 
+To use the expansion cards you simply need 4 short usb c extension cables to run from the motherboard to the front/rear expansion card slots
 
 The extra port on the back of the case is designed to allow you to add LED lights inside the case and power with standard 12v power
 
